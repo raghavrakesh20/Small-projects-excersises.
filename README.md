@@ -1,2 +1,2 @@
-# Small-projects-excersises.
+# Small-projects-practice.
 Related Digital Humanities
